@@ -4,3 +4,7 @@ https://transcranial.github.io/keras-js/
 https://www.youtube.com/watch?v=qrL7ko_ARb0
 https://www.youtube.com/watch?v=iqXKQf2BOSE
 https://www.youtube.com/watch?v=_jgR2XFEIAc
+http://machinelearningmastery.com/inspirational-applications-deep-learning/
+http://www.nature.com/articles/nature21056.epdf?author_access_token=8oxIcYWf5UNrNpHsUHd2StRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuPakXos4UhQAFZ750CsBNMMsISFHIKinKDMKjShCpHIlYPYUHhNzkn6pSnOCt0Ftf6
+https://blog.waya.ai/ground-up-hands-on-deep-learning-tutorial-diagnosing-skin-cancer-w-dermatologist-level-61a90fe9f269
+
