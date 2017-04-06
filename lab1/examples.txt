@@ -1,0 +1,6 @@
+http://blog.algorithmia.com/open-source-deep-learning-algorithm-roundup/
+http://playground.tensorflow.org/
+https://transcranial.github.io/keras-js/
+https://www.youtube.com/watch?v=qrL7ko_ARb0
+https://www.youtube.com/watch?v=iqXKQf2BOSE
+https://www.youtube.com/watch?v=_jgR2XFEIAc
