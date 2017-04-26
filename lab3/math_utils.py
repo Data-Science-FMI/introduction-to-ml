@@ -3,12 +3,10 @@ from scipy.special import expit
 
 
 def L2_reg(lambda_, w1, w2):
-    """Compute L2-regularization cost"""
     return (lambda_ / 2.0) * (np.sum(w1[:, 1:] ** 2) + np.sum(w2[:, 1:] ** 2))
 
 
 def L1_reg(lambda_, w1, w2):
-    """Compute L1-regularization cost"""
     return (lambda_ / 2.0) * (np.abs(w1).sum() + np.abs(w2).sum())
 
 
@@ -21,8 +19,7 @@ def sigmoid(z):
     return expit(z)
 
 
-def sigmoid_gradient(z):
-    """Compute gradient of the logistic function"""
+def sigmoid_prime(z):
     sg = sigmoid(z)
     return sg * (1 - sg)
 
