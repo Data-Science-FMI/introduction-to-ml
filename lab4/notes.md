@@ -5,6 +5,7 @@
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - [How to implement RNN in Python](https://peterroelants.github.io/posts/rnn_implementation_part01/)
 - [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
+- [cs231n - Recurrent Neural Networks](http://cs231n.stanford.edu/slides/2016/winter1516_lecture10.pdf)
 
 # Videos
 
