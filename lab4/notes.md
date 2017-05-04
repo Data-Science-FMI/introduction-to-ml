@@ -11,8 +11,13 @@
 
 - [University of Oxford Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs](https://www.youtube.com/watch?v=56TYLaQN4N8)
 - [DanDoesData Simple RNNs in Keras](https://www.youtube.com/watch?v=sYXEdXuIEcI)
+- [Udacity Deep Learning - RNNs](https://www.youtube.com/watch?v=H3ciJF2eCJI&index=53&list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
+- [Two Minutes Papers - RNNs](https://www.youtube.com/watch?v=Jkkjy7dVdaY)
+- [Recurrent Neural Networks RNN](https://www.youtube.com/watch?v=kMLl-TKaEnc)
 
 # Demos
 
-- [Handwriting generation](http://www.cs.toronto.edu/~graves/handwriting.html)
-- [Handwritten post-it notes](http://www.inkposter.com/)
+- [Handwriting Generation](http://www.cs.toronto.edu/~graves/handwriting.html)
+- [Handwritten Post-it Notes](http://www.inkposter.com/)
+- [Apple Picking Robot](https://www.technologyreview.com/s/604303/apple-picking-robot-prepares-to-compete-for-farm-jobs/)
+- [Smoother Animations](https://techcrunch.com/2017/05/01/this-neural-network-could-make-animations-in-games-a-little-less-awkward/)
