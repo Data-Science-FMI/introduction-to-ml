@@ -23,9 +23,9 @@ public class TensorFlowClassifier {
         inferenceInterface = new TensorFlowInferenceInterface(context.getAssets(), MODEL_FILE);
     }
 
-    public float[] predictProbabilities(float[] input_signal) {
+    public float[] predictProbabilities(float[] data) {
         float[] result = new float[OUTPUT_SIZE];
-        inferenceInterface.feed(INPUT_NODE, input_signal, INPUT_SIZE);
+        inferenceInterface.feed(INPUT_NODE, data, INPUT_SIZE);
         inferenceInterface.run(OUTPUT_NODES);
         inferenceInterface.fetch(OUTPUT_NODE, result);
 
