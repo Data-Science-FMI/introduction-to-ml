@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private float[] results;
     private TensorFlowClassifier classifier;
 
+    private String[] labels = {"Downstairs", "Jogging", "Sitting", "Standing", "Upstairs", "Walking"};
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -73,28 +75,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                     }
                 }
 
-                String text = "";
-                switch (idx) {
-                    case 0:
-                        text = "Downstairs";
-                        break;
-                    case 1:
-                        text = "Jogging";
-                        break;
-                    case 2:
-                        text = "Sitting";
-                        break;
-                    case 3:
-                        text = "Standing";
-                        break;
-                    case 4:
-                        text = "Upstairs";
-                        break;
-                    case 5:
-                        text = "Walking";
-                        break;
-                }
-                textToSpeech.speak(text, TextToSpeech.QUEUE_ADD, null, Integer.toString(new Random().nextInt()));
+                textToSpeech.speak(labels[idx], TextToSpeech.QUEUE_ADD, null, Integer.toString(new Random().nextInt()));
             }
         }, 2000, 5000);
     }
