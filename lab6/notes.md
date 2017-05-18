@@ -14,3 +14,8 @@
 
 - [Pole Balancer](http://richard-towers.com/poleBalancer/)
 - [Breakout](http://www.retrogames.cz/play_222-Atari2600.php?language=EN)
+
+# Misc
+
+- [TensorFlow Benchmarks](https://www.tensorflow.org/performance/benchmarks)
+- [TensorFlow Research Cloud](https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html)
