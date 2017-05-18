@@ -19,3 +19,6 @@
 
 - [TensorFlow Benchmarks](https://www.tensorflow.org/performance/benchmarks)
 - [TensorFlow Research Cloud](https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html)
+- [Types of ML](https://image.slidesharecdn.com/nextgentalk022015-150211154330-conversion-gate02/95/an-introduction-to-supervised-machine-learning-and-pattern-classification-the-big-picture-8-638.jpg?cb=1423785060)
+- [Breakout Env](https://gym.openai.com/envs/Breakout-v0)
+- [CartPole Env](https://gym.openai.com/envs/CartPole-v0)
