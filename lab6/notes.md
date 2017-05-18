@@ -3,6 +3,7 @@
 - [Deep Q Learning with Keras and Gym](https://keon.io/deep-q-learning/)
 - [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 - [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+- [Reinforcement Learning Overview](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/q_learning.ipynb)
 
 # Videos
 
