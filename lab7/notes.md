@@ -5,6 +5,7 @@
 - [Stacked Autoencoders in TensorFlow](http://cmgreen.io/2016/01/04/tensorflow_deep_autoencoder.html)
 - [Convolutional Autoencoders in TensorFlow](https://pgaleone.eu/neural-networks/deep-learning/2016/12/13/convolutional-autoencoders-in-tensorflow/)
 - [Denoising Autoencoders in TensorFlow](https://blackecho.github.io/blog/machine-learning/2016/02/29/denoising-autoencoder-tensorflow.html)
+- [Anomaly detection with H2O in R](https://shiring.github.io/machine_learning/2017/05/01/fraud)
 
 # Videos
 
