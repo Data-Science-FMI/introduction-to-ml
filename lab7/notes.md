@@ -21,3 +21,6 @@
 # Misc
 
 - [Applications of Autoencoders in NLP](https://www.doc.ic.ac.uk/~js4416/163/nlp/0-intro/html/intro.html)
+- [The Machine Intelligence Behind Gboard](https://research.googleblog.com/2017/05/the-machine-intelligence-behind-gboard.html)
+- [pix2code: Generating Code from a Graphical User Interface Screenshot](https://arxiv.org/pdf/1705.07962.pdf)
+- [AlphaGo beats Ke Jie again](https://www.theverge.com/2017/5/25/15689462/alphago-ke-jie-game-2-result-google-deepmind-china)
