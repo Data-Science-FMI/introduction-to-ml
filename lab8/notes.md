@@ -9,6 +9,7 @@
 - [DL4J's guide to Troubleshooting Neural Net Training](https://deeplearning4j.org/troubleshootingneuralnets)
 - [Debugging Neural Networks: A Checklist](https://engineering.semantics3.com/2016/10/09/debugging-neural-networks-a-checklist/)
 - [Questions & Intuition for Tackling Deep Learning Problems](https://www.semantics3.com/blog/questions-intuition-for-tackling-deep-learning-problems-2b3a22b32309)
+- [WTF is the Bias-Variance Tradeoff?](https://elitedatascience.com/bias-variance-tradeoff)
 
 # Videos
 
